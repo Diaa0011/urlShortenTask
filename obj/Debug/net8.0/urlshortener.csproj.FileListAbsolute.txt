@@ -1,0 +1,14 @@
+E:\TDS\urlshortener\bin\Debug\net8.0\urlshortener.exe
+E:\TDS\urlshortener\bin\Debug\net8.0\urlshortener.deps.json
+E:\TDS\urlshortener\bin\Debug\net8.0\urlshortener.runtimeconfig.json
+E:\TDS\urlshortener\bin\Debug\net8.0\urlshortener.dll
+E:\TDS\urlshortener\bin\Debug\net8.0\urlshortener.pdb
+E:\TDS\urlshortener\obj\Debug\net8.0\urlshortener.GeneratedMSBuildEditorConfig.editorconfig
+E:\TDS\urlshortener\obj\Debug\net8.0\urlshortener.AssemblyInfoInputs.cache
+E:\TDS\urlshortener\obj\Debug\net8.0\urlshortener.AssemblyInfo.cs
+E:\TDS\urlshortener\obj\Debug\net8.0\urlshortener.csproj.CoreCompileInputs.cache
+E:\TDS\urlshortener\obj\Debug\net8.0\urlshortener.dll
+E:\TDS\urlshortener\obj\Debug\net8.0\refint\urlshortener.dll
+E:\TDS\urlshortener\obj\Debug\net8.0\urlshortener.pdb
+E:\TDS\urlshortener\obj\Debug\net8.0\urlshortener.genruntimeconfig.cache
+E:\TDS\urlshortener\obj\Debug\net8.0\ref\urlshortener.dll
