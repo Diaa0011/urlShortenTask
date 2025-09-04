@@ -16,4 +16,9 @@ public class ApplicationDbContext : DbContext
     {
         base.OnModelCreating(modelbuilder);
     }
+
+    public async Task<bool> CheckSavedChangesAsync(int modifiedRows)
+    {
+        return await SaveChangesAsync() == modifiedRows;
+    }
 }

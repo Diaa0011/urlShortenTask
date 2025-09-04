@@ -1,0 +1,35 @@
+2025-09-04 18:22:31.487 +03:00 [DBG] Registered model binder providers, in the following order: ["Microsoft.AspNetCore.Mvc.ModelBinding.Binders.BinderTypeModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.ServicesModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.BodyModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.HeaderModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.FloatingPointTypeModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.EnumTypeModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.DateTimeModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.SimpleTypeModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.TryParseModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.CancellationTokenModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.ByteArrayModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.FormFileModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.FormCollectionModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.KeyValuePairModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.DictionaryModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.ArrayModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.CollectionModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.ComplexObjectModelBinderProvider"]
+2025-09-04 18:22:31.808 +03:00 [DBG] Hosting starting
+2025-09-04 18:22:31.919 +03:00 [DBG] No listening endpoints were configured. Binding to http://localhost:5000 by default.
+2025-09-04 18:22:31.929 +03:00 [INF] Now listening on: http://localhost:5000
+2025-09-04 18:22:31.934 +03:00 [DBG] Loaded hosting startup assembly urlshortener
+2025-09-04 18:22:31.939 +03:00 [INF] Application started. Press Ctrl+C to shut down.
+2025-09-04 18:22:31.943 +03:00 [INF] Hosting environment: Production
+2025-09-04 18:22:31.947 +03:00 [INF] Content root path: E:\TDS\urlshortener
+2025-09-04 18:22:31.951 +03:00 [DBG] Hosting started
+2025-09-04 18:23:21.715 +03:00 [INF] Application is shutting down...
+2025-09-04 18:23:21.716 +03:00 [DBG] Hosting stopping
+2025-09-04 18:23:21.730 +03:00 [DBG] Hosting stopped
+2025-09-04 18:34:50.035 +03:00 [DBG] Registered model binder providers, in the following order: ["Microsoft.AspNetCore.Mvc.ModelBinding.Binders.BinderTypeModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.ServicesModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.BodyModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.HeaderModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.FloatingPointTypeModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.EnumTypeModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.DateTimeModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.SimpleTypeModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.TryParseModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.CancellationTokenModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.ByteArrayModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.FormFileModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.FormCollectionModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.KeyValuePairModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.DictionaryModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.ArrayModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.CollectionModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.ComplexObjectModelBinderProvider"]
+2025-09-04 18:34:50.445 +03:00 [DBG] Hosting starting
+2025-09-04 18:34:50.663 +03:00 [DBG] No listening endpoints were configured. Binding to http://localhost:5000 by default.
+2025-09-04 18:34:50.727 +03:00 [INF] Now listening on: http://localhost:5000
+2025-09-04 18:34:50.730 +03:00 [DBG] Loaded hosting startup assembly urlshortener
+2025-09-04 18:34:50.736 +03:00 [INF] Application started. Press Ctrl+C to shut down.
+2025-09-04 18:34:50.740 +03:00 [INF] Hosting environment: Production
+2025-09-04 18:34:50.746 +03:00 [INF] Content root path: E:\TDS\urlshortener
+2025-09-04 18:34:50.749 +03:00 [DBG] Hosting started
+2025-09-04 18:35:06.963 +03:00 [INF] Application is shutting down...
+2025-09-04 18:35:06.965 +03:00 [DBG] Hosting stopping
+2025-09-04 18:35:06.978 +03:00 [DBG] Hosting stopped
+2025-09-04 18:42:12.424 +03:00 [DBG] Registered model binder providers, in the following order: ["Microsoft.AspNetCore.Mvc.ModelBinding.Binders.BinderTypeModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.ServicesModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.BodyModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.HeaderModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.FloatingPointTypeModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.EnumTypeModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.DateTimeModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.SimpleTypeModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.TryParseModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.CancellationTokenModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.ByteArrayModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.FormFileModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.FormCollectionModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.KeyValuePairModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.DictionaryModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.ArrayModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.CollectionModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.ComplexObjectModelBinderProvider"]
+2025-09-04 18:42:12.770 +03:00 [DBG] Hosting starting
+2025-09-04 18:42:12.969 +03:00 [INF] Now listening on: http://localhost:5544
+2025-09-04 18:42:12.974 +03:00 [DBG] Loaded hosting startup assembly urlshortener
+2025-09-04 18:42:12.981 +03:00 [INF] Application started. Press Ctrl+C to shut down.
+2025-09-04 18:42:12.986 +03:00 [INF] Hosting environment: Development
+2025-09-04 18:42:12.990 +03:00 [INF] Content root path: E:\TDS\urlshortener
+2025-09-04 18:42:12.995 +03:00 [DBG] Hosting started
+2025-09-04 18:42:27.444 +03:00 [INF] Application is shutting down...
+2025-09-04 18:42:27.445 +03:00 [DBG] Hosting stopping
+2025-09-04 18:42:27.460 +03:00 [DBG] Hosting stopped
