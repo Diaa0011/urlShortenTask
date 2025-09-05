@@ -52,3 +52,8 @@ docker-compose up -d
 ```
 docker-compose down
 ```
+
+## API Requests
+A `requests.har` file is included to make testing easier.  
+You can import it into [Postman](https://www.postman.com/) or [Insomnia](https://insomnia.rest) to quickly test the API endpoints (Get All, Create, Toggle, etc.).
+ **[Download requests.har](./requests.har)**
