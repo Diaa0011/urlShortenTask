@@ -1,0 +1,36 @@
+version: '3.9'
+
+services:
+  sqlserver:
+    image: mcr.microsoft.com/mssql/server:2019-latest
+    container_name: sqlserver-container
+    environment:
+      SA_PASSWORD: "!!!!Test2222"
+      ACCEPT_EULA: "Y"
+    ports:
+      - "1433:1433"
+    volumes:
+      - sqlserver-data:/var/opt/mssql
+    networks:
+      - app-network
+
+  webapi:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    container_name: urlshortener-api
+    depends_on:
+      - sqlserver
+    environment:
+      ConnectionStrings__DefaultConnection: "Server=sqlserver,1433;Database=UrlShortenerDb;User Id=sa;Password=!!!!Test2222;TrustServerCertificate=True;"
+    ports:
+      - "5000:80"
+    networks:
+      - app-network
+
+volumes:
+  sqlserver-data:
+
+networks:
+  app-network:
+    driver: bridge

@@ -4,21 +4,21 @@
             "commandName": "Project",
             "launchBrowser": true,
             "launchUrl": "swagger",
+            "applicationUrl": "http://localhost:5544",
+            "dotnetRunMessages": true,
             "environmentVariables": {
                 "ASPNETCORE_ENVIRONMENT": "Development"
-            },
-            "dotnetRunMessages": true,
-            "applicationUrl": "http://localhost:5544"
+            }
         },
         "https": {
             "commandName": "Project",
             "launchBrowser": true,
             "launchUrl": "swagger",
+            "applicationUrl": "https://localhost:5545",
+            "dotnetRunMessages": true,
             "environmentVariables": {
                 "ASPNETCORE_ENVIRONMENT": "Development"
-            },
-            "dotnetRunMessages": true,
-            "applicationUrl": "https://localhost:5544"
+            }
         }
     }
 }

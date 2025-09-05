@@ -1,11 +1,17 @@
+E:\TDS\urlshortener\bin\Debug\net8.0\appsettings.Development.json
 E:\TDS\urlshortener\bin\Debug\net8.0\appsettings.json
+E:\TDS\urlshortener\bin\Debug\net8.0\appsettings.Production.json
 E:\TDS\urlshortener\bin\Debug\net8.0\urlshortener.exe
 E:\TDS\urlshortener\bin\Debug\net8.0\urlshortener.deps.json
 E:\TDS\urlshortener\bin\Debug\net8.0\urlshortener.runtimeconfig.json
 E:\TDS\urlshortener\bin\Debug\net8.0\urlshortener.dll
 E:\TDS\urlshortener\bin\Debug\net8.0\urlshortener.pdb
+E:\TDS\urlshortener\bin\Debug\net8.0\urlshortener.xml
 E:\TDS\urlshortener\bin\Debug\net8.0\Azure.Core.dll
 E:\TDS\urlshortener\bin\Debug\net8.0\Azure.Identity.dll
+E:\TDS\urlshortener\bin\Debug\net8.0\FluentValidation.dll
+E:\TDS\urlshortener\bin\Debug\net8.0\FluentValidation.AspNetCore.dll
+E:\TDS\urlshortener\bin\Debug\net8.0\FluentValidation.DependencyInjectionExtensions.dll
 E:\TDS\urlshortener\bin\Debug\net8.0\Humanizer.dll
 E:\TDS\urlshortener\bin\Debug\net8.0\Microsoft.AspNetCore.JsonPatch.dll
 E:\TDS\urlshortener\bin\Debug\net8.0\Microsoft.AspNetCore.Mvc.Razor.Extensions.dll
@@ -189,8 +195,7 @@ E:\TDS\urlshortener\obj\Debug\net8.0\scopedcss\bundle\urlshortener.styles.css
 E:\TDS\urlshortener\obj\Debug\net8.0\urlshortener.csproj.CopyComplete
 E:\TDS\urlshortener\obj\Debug\net8.0\urlshortener.dll
 E:\TDS\urlshortener\obj\Debug\net8.0\refint\urlshortener.dll
+E:\TDS\urlshortener\obj\Debug\net8.0\urlshortener.xml
 E:\TDS\urlshortener\obj\Debug\net8.0\urlshortener.pdb
 E:\TDS\urlshortener\obj\Debug\net8.0\urlshortener.genruntimeconfig.cache
 E:\TDS\urlshortener\obj\Debug\net8.0\ref\urlshortener.dll
-E:\TDS\urlshortener\bin\Debug\net8.0\appsettings.Development.json
-E:\TDS\urlshortener\bin\Debug\net8.0\appsettings.Production.json

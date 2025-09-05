@@ -1,11 +1,14 @@
 {
   "version": 2,
-  "dgSpecHash": "SIiVJDWFw1Tr7ussQ2aUv91cs9+1gYWCrOBjDCglIIrbz2dvjQ2iHk5/OaQLD9OCuXYByO2IrlV241Tk2yCBMA==",
+  "dgSpecHash": "Hzhc6AeDFkb/Psg5m0D5aEXW1p7mH/aPRY000+4yc5/1S9ueOIi02KQfHMxSpLjwlN4SukFXatdi3mjTlj5vxQ==",
   "success": true,
   "projectFilePath": "E:\\TDS\\urlshortener\\urlshortener.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Di63\\.nuget\\packages\\azure.core\\1.38.0\\azure.core.1.38.0.nupkg.sha512",
     "C:\\Users\\Di63\\.nuget\\packages\\azure.identity\\1.11.4\\azure.identity.1.11.4.nupkg.sha512",
+    "C:\\Users\\Di63\\.nuget\\packages\\fluentvalidation\\12.0.0\\fluentvalidation.12.0.0.nupkg.sha512",
+    "C:\\Users\\Di63\\.nuget\\packages\\fluentvalidation.aspnetcore\\11.3.1\\fluentvalidation.aspnetcore.11.3.1.nupkg.sha512",
+    "C:\\Users\\Di63\\.nuget\\packages\\fluentvalidation.dependencyinjectionextensions\\11.11.0\\fluentvalidation.dependencyinjectionextensions.11.11.0.nupkg.sha512",
     "C:\\Users\\Di63\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",
     "C:\\Users\\Di63\\.nuget\\packages\\microsoft.aspnetcore.antiforgery\\2.3.0\\microsoft.aspnetcore.antiforgery.2.3.0.nupkg.sha512",
     "C:\\Users\\Di63\\.nuget\\packages\\microsoft.aspnetcore.authentication.abstractions\\2.3.0\\microsoft.aspnetcore.authentication.abstractions.2.3.0.nupkg.sha512",

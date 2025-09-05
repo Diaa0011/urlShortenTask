@@ -1,0 +1,84 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>urlshortener</name>
+    </assembly>
+    <members>
+        <member name="T:UrlShortener.Dtos.Request.CreateShortenUrlRequest">
+            <summary>
+             Request model for creating a shortened URL.
+            </summary>
+        </member>
+        <member name="P:UrlShortener.Dtos.Request.CreateShortenUrlRequest.OriginalUrl">
+            <summary>
+            The original URL to be shortened.
+            </summary>
+        </member>
+        <member name="T:UrlShortener.Dtos.Request.GetAllUrl">
+            <summary>
+            Request model for retrieving all URLs with optional search and pagination.
+            </summary>
+        </member>
+        <member name="P:UrlShortener.Dtos.Request.GetAllUrl.SearchFor">
+            <summary>
+            Optional search term to search for URLs.
+            </summary>
+        </member>
+        <member name="P:UrlShortener.Dtos.Request.GetAllUrl.IsActive">
+            <summary>
+            Indicates whether to include only active URLs.
+            </summary>
+        </member>
+        <member name="P:UrlShortener.Dtos.Request.GetAllUrl.PageNumber">
+            <summary>
+            The page number for pagination default is zero.
+            </summary>
+        </member>
+        <member name="P:UrlShortener.Dtos.Request.GetAllUrl.PageSize">
+            <summary>
+            The number of items per page for pagination default is ten.     
+            </summary>
+        </member>
+        <member name="P:UrlShortener.Dtos.Request.UpdateUrlRequest.link">
+            <summary>
+            The Link count to be updated
+            </summary>
+        </member>
+        <member name="T:urlshortener.Migrations.firstCommit">
+            <inheritdoc />
+        </member>
+        <member name="M:urlshortener.Migrations.firstCommit.Up(Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder)">
+            <inheritdoc />
+        </member>
+        <member name="M:urlshortener.Migrations.firstCommit.Down(Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder)">
+            <inheritdoc />
+        </member>
+        <member name="M:urlshortener.Migrations.firstCommit.BuildTargetModel(Microsoft.EntityFrameworkCore.ModelBuilder)">
+            <inheritdoc />
+        </member>
+        <member name="T:urlshortener.Migrations.addingClickCount">
+            <inheritdoc />
+        </member>
+        <member name="M:urlshortener.Migrations.addingClickCount.Up(Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder)">
+            <inheritdoc />
+        </member>
+        <member name="M:urlshortener.Migrations.addingClickCount.Down(Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder)">
+            <inheritdoc />
+        </member>
+        <member name="M:urlshortener.Migrations.addingClickCount.BuildTargetModel(Microsoft.EntityFrameworkCore.ModelBuilder)">
+            <inheritdoc />
+        </member>
+        <member name="T:urlshortener.Migrations.removeclickCountfrombasetable">
+            <inheritdoc />
+        </member>
+        <member name="M:urlshortener.Migrations.removeclickCountfrombasetable.Up(Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder)">
+            <inheritdoc />
+        </member>
+        <member name="M:urlshortener.Migrations.removeclickCountfrombasetable.Down(Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder)">
+            <inheritdoc />
+        </member>
+        <member name="M:urlshortener.Migrations.removeclickCountfrombasetable.BuildTargetModel(Microsoft.EntityFrameworkCore.ModelBuilder)">
+            <inheritdoc />
+        </member>
+    </members>
+</doc>

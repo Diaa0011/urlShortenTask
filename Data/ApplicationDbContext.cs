@@ -11,6 +11,7 @@ public class ApplicationDbContext : DbContext
     }
 
     public DbSet<Url> Urls { get; set; }
+    public DbSet<UrlClick> UrlClicks { get; set; }
 
     protected override void OnModelCreating(ModelBuilder modelbuilder)
     {
